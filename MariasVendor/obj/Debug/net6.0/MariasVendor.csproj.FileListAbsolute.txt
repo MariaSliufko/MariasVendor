@@ -1,0 +1,15 @@
+/Users/mariasliufko/Projects/MariasVendor/MariasVendor/obj/Debug/net6.0/MariasVendor.csproj.AssemblyReference.cache
+/Users/mariasliufko/Projects/MariasVendor/MariasVendor/obj/Debug/net6.0/MariasVendor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariasliufko/Projects/MariasVendor/MariasVendor/obj/Debug/net6.0/MariasVendor.AssemblyInfoInputs.cache
+/Users/mariasliufko/Projects/MariasVendor/MariasVendor/obj/Debug/net6.0/MariasVendor.AssemblyInfo.cs
+/Users/mariasliufko/Projects/MariasVendor/MariasVendor/obj/Debug/net6.0/MariasVendor.csproj.CoreCompileInputs.cache
+/Users/mariasliufko/Projects/MariasVendor/MariasVendor/bin/Debug/net6.0/MariasVendor
+/Users/mariasliufko/Projects/MariasVendor/MariasVendor/bin/Debug/net6.0/MariasVendor.deps.json
+/Users/mariasliufko/Projects/MariasVendor/MariasVendor/bin/Debug/net6.0/MariasVendor.runtimeconfig.json
+/Users/mariasliufko/Projects/MariasVendor/MariasVendor/bin/Debug/net6.0/MariasVendor.dll
+/Users/mariasliufko/Projects/MariasVendor/MariasVendor/bin/Debug/net6.0/MariasVendor.pdb
+/Users/mariasliufko/Projects/MariasVendor/MariasVendor/obj/Debug/net6.0/MariasVendor.dll
+/Users/mariasliufko/Projects/MariasVendor/MariasVendor/obj/Debug/net6.0/refint/MariasVendor.dll
+/Users/mariasliufko/Projects/MariasVendor/MariasVendor/obj/Debug/net6.0/MariasVendor.pdb
+/Users/mariasliufko/Projects/MariasVendor/MariasVendor/obj/Debug/net6.0/MariasVendor.genruntimeconfig.cache
+/Users/mariasliufko/Projects/MariasVendor/MariasVendor/obj/Debug/net6.0/ref/MariasVendor.dll
