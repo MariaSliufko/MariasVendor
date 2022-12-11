@@ -257,7 +257,7 @@ namespace MariasVendor
             Console.Clear();
 
             // Print info
-            Console.WriteLine("Machine ballance: " + machineBalance + "kr");
+            Console.WriteLine("Machine balance: " + machineBalance + "kr");
             Console.WriteLine("");
             Console.WriteLine(products[index].name);
             Console.WriteLine(products[index].description);

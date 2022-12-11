@@ -27,7 +27,7 @@ namespace MariasVendor.products
 
         public void Description()
         {
-            System.Console.WriteLine(description); //method for description
+            Console.WriteLine(description); //method for description
         }
 
         // Returns balance after purchase
@@ -35,13 +35,13 @@ namespace MariasVendor.products
         {
             if (balance >= price) // if balance is greather then the price you buy product else you need to add money
             {
-                System.Console.WriteLine("You bought " + name);
+                Console.WriteLine("You bought " + name);
                 Use();
                 return balance - price;
             }
             else
             {
-                System.Console.WriteLine("You need to insert more money to buy " + name + ", press any key to go back");
+                Console.WriteLine("You need to insert more money to buy " + name + ", press any key to go back");
                 return balance;
             }
         }
